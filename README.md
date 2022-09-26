@@ -1,2 +1,2 @@
 # 3DPrinter
-#All pieces are used and assembled with the help of hardware inorder to recreate the file "Assebly 1"
+#All pieces are used and assembled with the help of hardware in order to recreate the file "Assebly 1"
